@@ -175,7 +175,7 @@ user_data_fields = [
 
 jinja = {
 	"methods": [
-		"qrcode_gen.qrcode.gen_qrcode"
+		"qrcode_gen.qrcode.gen_qrcode",
 		"qrcode_gen.qrcode.gen_code"
 	]
 }
